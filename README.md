@@ -10,22 +10,18 @@ Here i'm going to update my daily learning or project related info's
 
 - practiced some SQL problems
 
-- participate in kaggle competition 
+- participate in kaggle competition ( Loan Approval Prediction  :: Playground Series - Season 4, Episode 10)
   
-  - implement base model for competition
-
-
-
-
+  - implement base model using random forest for competition
 
 ## TODO for tomorrow
 
-- [ ]  image classification using CNN project
+- [ ] image classification using CNN project
   
-  - [ ]  deploy it on streamlit / heroku
+  - [ ] deploy it on streamlit / heroku
 
-- [ ]  learn about ZFNet , VGGNet , GoogleNet
+- [ ] learn about ZFNet , VGGNet , GoogleNet
 
-- [ ]  start solving leetcode sql problems 
+- [ ] start solving leetcode sql problems 
 
-- [ ]  implement version-2 for kaggle competition
+- [ ] implement version-2 using xgboost , catboost , lightgbm for kaggle competition
