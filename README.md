@@ -1,19 +1,21 @@
 Here i'm going to update my daily learning or project related info's
 
-## Date :: (5-oct-2024)
+## Date :: (14-oct-2024)
 
-- implement version-4 for kaggle competition
+- implement version-5 , build a DNN  for kaggle competition
 
-- And Done "nothing" , Played Cricket
+- created python developer project (Productivity tracker)
 
-## TODO for tomorrow
+- read multiple kaggle notebooks
 
-- [ ] image classification using CNN project
+- ## TODO for tomorrow
+
+- [ ] project : image classification using CNN
   
   - [ ] deploy it on streamlit / heroku
 
-- [ ] learn about ZFNET , VGGNet , GoogleNet
+- [ ] learn about  VGGNet , GoogleNet
 
 - [ ] start solving leetcode sql problems 
 
-- [ ] implement version-4  for kaggle competition
+- [ ] learn and implement new methods for kaggle competition
