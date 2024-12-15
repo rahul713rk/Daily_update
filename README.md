@@ -1,25 +1,20 @@
-# Todo List | Date : 2024-12-09 
+# Todo List | Date : 2024-12-15 
 
-Keys : 5258 | Clicks : 1580 | Time (in Minutes) : 219.96 mins
+Keys : 1928 | Clicks : 1356 | Time (in Minutes) : 110.84 mins
 ## Tasks Overview
 
 ### Done
 | Title | Category | Priority | Created | Completed |
 |-------|----------|----------|----------|------------|
-| Understanding of RNNs | Learning - Theory | Medium | 2024-12-09 | 2024-12-09 |
-| Deep RNNs | Learning - Theory | Medium | 2024-12-09 | 2024-12-09 |
-| LSTM | Learning - Theory | Medium | 2024-12-09 | 2024-12-09 |
-| GRU | Learning - Theory | Medium | 2024-12-09 | 2024-12-09 |
+| performance metrics for regression task (notes) | Learning - Theory | High | 2024-12-15 | 2024-12-15 |
 
 ### Working
-No tasks in this status.
+| Title | Category | Priority | Created | Completed |
+|-------|----------|----------|----------|------------|
+| kaggel competition (s4e12) - base version | Coding | High | 2024-12-15 | - |
 
 ### Pending
 | Title | Category | Priority | Created | Completed |
 |-------|----------|----------|----------|------------|
-| Basic Understanding of Autoencoders | Learning - Theory | Medium | 2024-12-09 | - |
-| Stacked Autoencoders | Learning - Theory | Medium | 2024-12-09 | - |
-| Denoising Autoencoders | Learning - Theory | Medium | 2024-12-09 | - |
-| Sparse Autoencoders | Learning - Theory | Medium | 2024-12-09 | - |
-| Variational Autoencoders | Learning - Theory | Medium | 2024-12-09 | - |
+| streamlit project - s4e12 | Coding | High | 2024-12-15 | - |
 
