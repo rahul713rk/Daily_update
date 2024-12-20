@@ -1,21 +1,20 @@
-# Todo List | Date : 2024-12-16 
+# Todo List | Date : 2024-12-20 
 
-Keys : 7017 | Clicks : 1431 | Time (in Minutes) : 259.78 mins
+Keys : 655 | Clicks : 574 | Time (in Minutes) : 56.46 mins
 ## Tasks Overview
 
 ### Done
-| Title | Category | Priority | Created | Completed |
-|-------|----------|----------|----------|------------|
-| kaggel competition (s4e12) | Coding | High | 2024-12-16 | 2024-12-16 |
-| write a blog | Learning - Theory | Medium | 2024-12-16 | 2024-12-16 |
+No tasks in this status.
 
 ### Working
 | Title | Category | Priority | Created | Completed |
 |-------|----------|----------|----------|------------|
-| Streamlit project on s4e12 | Coding | High | 2024-12-16 | - |
+| kaggel (s4e12) | Coding | High | 2024-12-20 | - |
 
 ### Pending
 | Title | Category | Priority | Created | Completed |
 |-------|----------|----------|----------|------------|
-| improvements on productivity tracker app | Coding | Low | 2024-12-16 | - |
+| streamlit project on s4e12 | Coding | High | 2024-12-20 | - |
+| write a blog | Learning - Theory | High | 2024-12-20 | - |
+| productivity tracker (edit function) | Coding | Low | 2024-12-20 | - |
 
